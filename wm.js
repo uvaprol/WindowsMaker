@@ -5,7 +5,7 @@ const body = document.getElementsByTagName('body')[0]
 const RB = 7
 let active_div = undefined
 let mX, mY
-
+alert('run')
 document.addEventListener('mouseup', function() {
     active_div = undefined
 })
